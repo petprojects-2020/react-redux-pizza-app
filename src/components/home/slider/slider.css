@@ -1,0 +1,46 @@
+.slider {
+    height: 45vh;
+}
+
+.slider__heading-subtitle {
+    font-weight: 700;
+    font-size: 1em;
+}
+
+.slider__heading-title {
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.slider__heading-description {
+    width: 80%;
+    text-align: center;
+}
+
+@media screen and (min-width: 576px) {
+    
+    .slider__heading-subtitle {
+        font-size: 1.25em;
+    }
+    
+    .slider__heading-title {
+        font-size: 2.5em;
+    }
+
+    .slider {
+        height: 35vh;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+    
+    .slider__heading-subtitle {
+        font-size: 1.5em;
+    }
+    
+    .slider__heading-title {
+        font-size: 3em;
+    }
+
+}

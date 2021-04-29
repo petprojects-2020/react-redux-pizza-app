@@ -1,0 +1,15 @@
+.about__section div {
+    color: rgb(34,39,45);
+    font-size: 24px;
+}
+
+.about__section p,
+.hours__section p {
+    color: rgb(136,136,136);
+    font-size: 16px;
+}
+
+.hours__section-heading {
+    font-weight: 700;
+    color: rgb(51,51,51);
+}

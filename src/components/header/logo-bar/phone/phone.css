@@ -1,0 +1,8 @@
+.phone__container {
+    border-radius: 3em;
+}
+
+.phone__number {
+    font-size: 1.2em;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.catalog__heading {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: rgb(34,39,45);
+}
+
+.catalog__subheading {
+    font-size: 1em;
+    width: 90%;
+    margin: 0 auto;
+    color: rgb(136,136,136);
+}
+
+@media screen and (min-width: 576px) {
+    .catalog__heading {
+        font-size: 1.75em;
+    }
+    .catalog__subheading {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .catalog__heading {
+        font-size: 1.875em;
+    }
+    .catalog__subheading {
+        width: 70%;
+    }
+}

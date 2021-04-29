@@ -1,0 +1,19 @@
+.special__heading {
+    font-size: 30px;
+    color: rgb(34,39,45);
+}
+
+.special__subheading {
+    font-size: 24px;
+    color: rgb(34,39,45);
+}
+
+.special__content {
+    font-size: 16px;
+    color: rgb(136,136,136);
+}
+
+.special__content-heading {
+    font-size: 18px;
+    color: rgb(34,39,45);
+}

@@ -1,0 +1,19 @@
+.productCard__content-title {
+    color: rgb(34, 39, 45);
+    font-weight: 700;
+}
+
+.productCard__content-description {
+    color: rgb(102, 102, 102);
+}
+
+.bread__crumbs-path {
+    color: rgb(34, 39, 45);
+    font-size: 12px;
+}
+
+.bread__crumbs-item,
+.product__description-diet {
+    color: rgb(153, 153, 153);
+    font-size: 12px;
+}

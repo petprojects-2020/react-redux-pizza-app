@@ -1,0 +1,18 @@
+.locations__container {
+    background-color: rgb(135,1,36);
+}
+
+.active__font-color {
+    color: rgb(135,1,36);
+}
+
+.locations__heading {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.locations__subheading {
+    font-size: 16px;
+    width: 80%;
+    margin: 0 auto;
+}

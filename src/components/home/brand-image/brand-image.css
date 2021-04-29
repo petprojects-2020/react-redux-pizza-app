@@ -1,0 +1,24 @@
+.brandimage__container {
+    height: 30vh;
+}
+
+.brandimage__heading {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+@media screen and (min-width: 576px) {
+         
+    .brandimage__heading {
+        font-size: 2.5em;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+       
+    .brandimage__heading {
+        font-size: 3em;
+    }
+
+}

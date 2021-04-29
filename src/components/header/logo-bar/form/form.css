@@ -1,0 +1,19 @@
+.form__container {
+    border-radius: 3em;
+}
+.form__basket-icon {
+    position: relative;
+}
+.form__basket-amount {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    color: white;
+    top: -20px;
+}
+
+.fa-user,
+.fa-shopping-cart {
+    cursor: pointer;
+}

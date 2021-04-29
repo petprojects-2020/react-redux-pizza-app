@@ -1,0 +1,28 @@
+.page__header {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: rgb(34,39,45);
+}
+
+.page__subheader {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 1em;
+    color: rgb(153,153,153);
+}
+
+@media screen and (min-width: 576px) {
+    .page__header {
+        font-size: 1.875em;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .page__header {
+        font-size: 2.5em;
+    }
+    .page__subheader {
+        width: 75%;
+        font-size: 1.125em;
+    }
+}
